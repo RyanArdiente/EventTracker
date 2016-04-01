@@ -28,10 +28,11 @@ This project was used to practice working with JSON from frontend to backend and
 <li>Create items</li>
 <li>Search for items</li>
 <li>Delete shopping list</li>
+<li>Mark off items already bought</li>
 </ul>
 <h4>Links</h4>
 <ul>
-<li><a href="http://nayrdnt.com:8080/MyTeamBasketballRoster/">Deployed Project</a></li>
+<li><a href="http://www.nayrdnt.com:8080/EventTracker/">Deployed Project</a></li>
 <li><a href="https://github.com/RyanArdiente/EventTracker">EventTracker GitHub</a></li>
 <li><a href="https://github.com/RyanArdiente/EventTrackerdb">EventTracker Database GitHubt</a></li>
 </ul>
