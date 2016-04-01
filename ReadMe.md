@@ -1,5 +1,5 @@
 #
-<h1>Shopping List Event Tracker/h1>
+<h1>Shopping List Event Tracker</h1>
 Full Stack Java Web Application
 
 <h4>Project Specifications</h4>
